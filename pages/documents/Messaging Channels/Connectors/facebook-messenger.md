@@ -92,6 +92,7 @@ To create a new Agent Manager user, specifically for this purpose:
 5. Click **Save**.
 
 On the Facebook connector page, under **Add a Facebook external user**, simply select the Facebook External User profile you have just created and click **Done**.![](/img/facebook-messenger-3.png)
+ **Note:** Do not select actual agent user that is taking conversations here. 
 
 {: .notice}
 **Note:** To route visitors from your campaign to a specific skill, please contact your LivePerson representative.
